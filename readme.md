@@ -1,0 +1,3 @@
+This is the note for course MATH 658 Nonlinear Dynamics and Geometric Mechanics by professor Anthony Bloch at University of Michigan.
+
+The content include differential geometry and its application to control theory and dynamical systems. Also, some examples in mechanical and physics systems are shown.
